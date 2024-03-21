@@ -1,13 +1,12 @@
-## Isar Inspector
+IyMgSXNhciBJbnNwZWN0b3IKCjxpbWcgc3JjPSJodHRwczovL3Jhdy5naXRo
+dWJ1c2VyY29udGVudC5jb20vaXNhci9pc2FyL21haW4vLmdpdGh1Yi9hc3Nl
+dHMvaXNhci1pbnNwZWN0b3IucG5nP3Nhbml0aXplPXRydWUiPgoKCmBgYGRh
+cnQKaW1wb3J0ICdwYWNrYWdlOmlzYXJfaW5zcGVjdG9yL2lzYXJfaW5zcGVj
+dG9yLmRhcnQnOwp2b2lkIG1haW4oTGlzdDxTdHJpbmc+IGFyZ3VtZW50cykg
+YXN5bmMgewogIElzYXJJbnNwZWN0b3IgaW5zcGVjdG9yID0gSXNhckluc3Bl
+Y3RvcigpOyAKICBhd2FpdCBpbnNwZWN0b3IucnVuKCk7ICAgCn0KYGBgIyBp
+c2FyX2luc3BlY3RvcgojIGlzYXJfaW5zcGVjdG9yCg==
 
-<img src="https://raw.githubusercontent.com/isar/isar/main/.github/assets/isar-inspector.png?sanitize=true">
-
-
-```dart
-import 'package:isar_inspector/isar_inspector.dart';
-void main(List<String> arguments) async {
-  IsarInspector inspector = IsarInspector(); 
-  await inspector.run();   
-}
-```# isar_inspector
-# isar_inspector
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
